@@ -6,7 +6,7 @@ HIV-Quasipore is an HIV-1-specific Nanopore basecaller designed to substantially
 * Whole genome amplification
 * Integration site studies
 * vQs-specific *tat* and *rev* exon matching
-* Co-evolution studies
+* Coevolution studies
 
 ## Improvement metrics 
 Add pretty figures later
