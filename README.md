@@ -1,8 +1,8 @@
 # HIV-Quasipore-basecallers
 
-HIV-Quasipore is an HIV-1-specific Nanopore basecaller designed to substantially improve HIV-1 read quality and enhance viral quasispecies (vQs) detection. It comes in three versions: fast, high-accuracy (HAC) and super-accuracy (SUP) for R9.4.1 basecalling and HAC and SUP for R10.3 basecalling. 
+HIV-Quasipore is an HIV-1-specific Nanopore basecaller suite designed to substantially improve HIV-1 read quality and enhance viral quasispecies (vQs) detection. It comes in three versions: fast, high-accuracy (HAC) and super-accuracy (SUP) for R9.4.1 basecalling and HAC and SUP for R10.3 basecalling. 
 
-The fast basecaller is designed for live basecalling, while HAC and SUP basecallers are designed for pipeline incorperation. While their primary purpose is to enhance HIV-vQs detection, it can be applied for other HIV-1-specific applications, including but not limited to:
+The fast basecaller is designed for live basecalling, while HAC and SUP basecallers are designed for pipeline incorperation. While their primary purpose is to enhance HIV vQs detection, it can be applied for other HIV-1-specific applications, including but not limited to:
 
 * HIV-1 CRISPR-induced InDel detection
 * Whole genome amplification
