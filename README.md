@@ -11,7 +11,7 @@ The fast basecaller is designed for live basecalling, while HAC and SUP basecall
 * Coevolution studies
 
 ## Citation
-Link, R.W., De Souza, D.R., Mele, A.R., Chung, C.H., Nonnemacher, M.R., Wigdahl, B. and Dampier, W., [HIV-Quasipore: A Suite of HIV-1-Specific Nanopore Basecallers Designed to Enhance Viral Quasispecies Detection](https://www.frontiersin.org/articles/10.3389/fviro.2022.858375/full). Frontiers in Virology, p.36.
+Link, R.W., De Souza, D.R., Spector C., Mele, A.R., Chung, C.H., Nonnemacher, M.R., Wigdahl, B. and Dampier, W., [HIV-Quasipore: A Suite of HIV-1-Specific Nanopore Basecallers Designed to Enhance Viral Quasispecies Detection](https://www.frontiersin.org/articles/10.3389/fviro.2022.858375/full). Frontiers in Virology, p.36.
 
 ## Basecallers
 
